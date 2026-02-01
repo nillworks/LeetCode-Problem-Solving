@@ -6,7 +6,7 @@ Just tick the checkbox when you finish each day's work.
 
 # ✅ February 2026 Progress
 
-- [ ] Day 1 — 01 Feb 2026
+- [x] Day 1 — 01 Feb 2026
 - [ ] Day 2 — 02 Feb 2026
 - [ ] Day 3 — 03 Feb 2026
 - [ ] Day 4 — 04 Feb 2026
