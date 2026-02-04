@@ -34,3 +34,25 @@ var map = function (arr, fn) {
   for (let i = 0; i < arr.length; i++) res[i] = fn(arr[i], i);
   return res;
 };
+
+const filter = function (arr, fn) {
+  const filteredArr = [];
+
+  for (let i = 0; i < arr.length; i++) {
+    if (fn(arr[i], i)) {
+      filteredArr.push(fn(arr[i]));
+    }
+  }
+
+  return filteredArr;
+};
+
+const reduce = function (nums, fn, init) {
+  let val = init;
+
+  for (let i = 0; i < nums.length; i++) {
+    val = fn(val, nums[i]);
+  }
+
+  return val;
+};
