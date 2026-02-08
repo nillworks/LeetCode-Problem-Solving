@@ -29,7 +29,7 @@ console.log(result(4, 4));
 
 // compose unlimit function
 
-function name(params) {
+function name(functions) {
   return function (x) {
     for (let i = functions.length - 1; i >= 0; i--) {
       x = functions[i](x);
