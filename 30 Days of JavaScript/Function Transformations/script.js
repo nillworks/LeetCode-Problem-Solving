@@ -40,3 +40,14 @@ function name(functions) {
 
 var argumentsLength = (...args) => args.length;
 // var argumentsLength = function (...args) args.length;
+
+// 2666. Allow One Function Call
+
+var once = function (fn) {
+  let called = false;
+  return function (...args) {
+    if (called) return undefined;
+    called = true;
+    return fn(...args);
+  };
+};
