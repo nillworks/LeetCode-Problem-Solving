@@ -14,8 +14,8 @@ Just tick the checkbox when you finish each day's work.
 - [x] Day 6 — 06 Feb 2026
 - [x] Day 7 — 07 Feb 2026
 - [x] Day 8 — 08 Feb 2026
-- [ ] Day 9 — 09 Feb 2026
-- [ ] Day 10 — 10 Feb 2026
+- [x] Day 9 — 09 Feb 2026
+- [x] Day 10 — 10 Feb 2026
 - [ ] Day 11 — 11 Feb 2026
 - [ ] Day 12 — 12 Feb 2026
 - [ ] Day 13 — 13 Feb 2026
