@@ -23,17 +23,17 @@ Just tick the checkbox when you finish each day's work.
 - [x] Day 15 — 15 Feb 2026
 - [x] Day 16 — 16 Feb 2026
 - [x] Day 17 — 17 Feb 2026
-- [ ] Day 18 — 18 Feb 2026
-- [ ] Day 19 — 19 Feb 2026
-- [ ] Day 20 — 20 Feb 2026
-- [ ] Day 21 — 21 Feb 2026
-- [ ] Day 22 — 22 Feb 2026
-- [ ] Day 23 — 23 Feb 2026
-- [ ] Day 24 — 24 Feb 2026
-- [ ] Day 25 — 25 Feb 2026
-- [ ] Day 26 — 26 Feb 2026
-- [ ] Day 27 — 27 Feb 2026
-- [ ] Day 28 — 28 Feb 2026
+- [x] Day 18 — 18 Feb 2026
+- [x] Day 19 — 19 Feb 2026
+- [x] Day 20 — 20 Feb 2026
+- [x] Day 21 — 21 Feb 2026
+- [x] Day 22 — 22 Feb 2026
+- [x] Day 23 — 23 Feb 2026
+- [x] Day 24 — 24 Feb 2026
+- [x] Day 25 — 25 Feb 2026
+- [x] Day 26 — 26 Feb 2026
+- [x] Day 27 — 27 Feb 2026
+- [x] Day 28 — 28 Feb 2026
 
 ---
 
