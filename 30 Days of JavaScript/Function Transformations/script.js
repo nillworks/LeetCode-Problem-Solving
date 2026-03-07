@@ -51,3 +51,11 @@ var once = function (fn) {
     return fn(...args);
   };
 };
+
+const abc = {};
+abc.key = 'nill';
+console.log(abc);
+const abc2 = { ...abc };
+abc2.key = 'Roy';
+console.log(abc2);
+console.log(abc);
